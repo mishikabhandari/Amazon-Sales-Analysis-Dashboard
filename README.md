@@ -116,25 +116,25 @@ A[Raw Dataset]
 
 ## 📈 Executive Overview
 
-<img src="Overview.png" width="100%">
+<img src="EXECUTIVE.png" width="100%">
 
 <br>
 
 ## 📦 Product Performance
 
-<img src="Products.png" width="100%">
+<img src="PRODUCT.png" width="100%">
 
 <br>
 
 ## 👥 Customer Insights
 
-<img src="Customers.png" width="100%">
+<img src="CUSTOMERS.png" width="100%">
 
 <br>
 
 ## 🌍 Regional Sales
 
-<img src="Regions.png" width="100%">
+<img src="GEOGRAPHY.png" width="100%">
 
 ---
 
